@@ -2,7 +2,7 @@
 
 ## Stochastic order notation
 
-**"Big Op"** (*big oh-pee*), or in algebraic terms $O_p$, is a shorthand means of characterising the convergence in probability of a set of random variables. It directly builds on the same sort of convergence ideas that were discussed in Chapters [5](#wlln) and [6](#slutsky).
+**"Big Op"** (*big oh-pee*), or in algebraic terms $O_p$, is a shorthand means of characterising the convergence in probability of a set of random variables. It directly builds on the same sort of convergence ideas that were discussed in Chapters [4](#wlln) and [5](#slutsky).
 
 Big Op means that some given random variable is stochastically bounded. If we have some random variable $X_n$ and some constant $a_n$ (where n indexes both sets), then 
 
