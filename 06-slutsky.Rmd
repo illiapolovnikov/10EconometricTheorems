@@ -7,7 +7,7 @@ Slutsky's Theorem allows us to make claims about the convergence of random varia
 1. $X_n + A_n  \xrightarrow{d} X + a$
 2. $A_nX_n \xrightarrow{d} aX$
 
-Note that if $A_n$ or $B_n$ do not converge in probability to constants, and instead converge towards some distribution, then Slutsky's Theorem does not hold. More trivially, if *all* variables converge in probability to constants, then $A_nX_n + B_n \xrightarrow{p} aX+B$.
+Trivially, if $A_n$ and $B_n$ converge in probability to constants $a$ and $b$, then $A_nX_n + B_n \xrightarrow{p} aX+b$. Note that if $A_n$ or $B_n$ do not converge in probability to constants, and instead converge towards some distribution, then Slutsky's Theorem does not hold. 
 
 ## Coded demonstration
 
