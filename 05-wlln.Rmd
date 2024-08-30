@@ -164,7 +164,7 @@ $Y_i$ has some convenient properties. First, since each random variable $X_i$ in
 The variance of $Y_i$ is also recoverable. First note three basic features of variance: if $a$ is a constant, and $X$ and $Y$ are random variables, $var(a) = 0$; $var(aX) = a^2var(X)$; and from the variance of a sum $var(X - Y) = var(A)-var(B)$. Therefore:
 
 \begin{align}
-var(\frac{1}{\sigma}(X_i - \mu) &= \frac{1}{\sigma^2}var(X_i - \mu) \\
+var \left(\frac{1}{\sigma}(X_i - \mu)\right) &= \frac{1}{\sigma^2}var(X_i - \mu) \\
 var(X_i - \mu) &= var(X_i) - var(\mu) \\
 &= var(X_i).
 \end{align}
